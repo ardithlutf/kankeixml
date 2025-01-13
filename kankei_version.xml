@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Kankei</title>
+<!--        <item>-->
+<!--            <title>Version 3.2.4</title>-->
+<!--            <description>New features and improvements.</description>-->
+<!--            <pubDate>Mon, 13 Jan 2025 00:01:00 +0000</pubDate>-->
+<!--            <enclosure url="https://play.google.com/store/apps/details?id=com.wcs.kankei" sparkle:version="3.2.4" sparkle:os="android" />-->
+<!--        </item>-->
+        <item>
+            <title>Version 3.2.4</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Mon, 13 Jan 2025 00:01:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/kankei/id1633572512" sparkle:version="3.2.4" sparkle:os="iOS" />
+        </item>
+    </channel>
+</rss>
